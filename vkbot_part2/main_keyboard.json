@@ -1,0 +1,35 @@
+{
+    "one_time": false,
+    "buttons":[
+        [
+            {
+            "action":
+            {
+                "type": "text",
+                "label": "Start"
+            },
+            "color":"primary"
+            }
+        ],
+        [
+            {
+            "action": 
+            {
+                "type": "text",
+                "label": "Регистрация"
+            },
+            "color": "secondary"
+            }
+        ],
+        [
+            {
+            "action": 
+            {
+                "type": "text",
+                "label": "Кто сегодня дежурит?"
+            },
+            "color": "primary"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "one_time": false,
+    "buttons":[
+        [
+            {
+            "action":
+            {
+                "type": "text",
+                "label": "Номер блока"
+            },
+            "color":"primary"
+            }
+        ],
+        [
+            {
+            "action": 
+            {
+                "type": "text",
+                "label": "Номер комнаты"
+            },
+            "color": "secondary"
+            }
+        ],
+        [
+            {
+            "action": 
+            {
+                "type": "text",
+                "label": "Проверка данных / Выход"
+            },
+            "color": "primary"
+            }
+        ]
+    ]
+}
